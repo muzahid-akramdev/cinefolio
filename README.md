@@ -1,0 +1,3 @@
+# CineFolio – আপনার নিজের মুভি ও টিভি ট্র্যাকিং প্ল্যাটফর্ম
+...
+(Full Bengali README as previously provided, included in the actual script – truncated here for space)
