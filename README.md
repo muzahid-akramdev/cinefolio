@@ -1,3 +1,5 @@
-# CineFolio – আপনার নিজের মুভি ও টিভি ট্র্যাকিং প্ল্যাটফর্ম
-...
-(Full Bengali README as previously provided, included in the actual script – truncated here for space)
+# CineFolio
+
+আপনার নিজের মুভি ও টিভি ট্র্যাকিং প্ল্যাটফর্ম — দেখা সিনেমা/সিরিজ, ওয়াচলিস্ট আর অগ্রগতি এক জায়গায়।
+
+Next.js + Supabase · চালাতে: `npm install && npm run dev`
